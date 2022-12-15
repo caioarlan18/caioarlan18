@@ -2,7 +2,7 @@
 
 - 👋 Tenho 16 anos
 - 👀 Estou interessado em algum estágio como desenvolvedor web front-end
-- 🌱 Estudando Python
+- 🌱 Estudando mais afundo JavaScript, ReactJS, NativeJS, Angular
 
 
 <div align="left">
