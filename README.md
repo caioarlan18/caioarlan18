@@ -16,9 +16,8 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-reactJS e Native" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img align="center" alt="Caio-Angular" height="50" width="70" src="https://o.remove.bg/downloads/d38d73d0-bfa8-4faa-a03b-0e5452306a7f/1_-8AAdexfOAK9R-AIha_PBQ-removebg-preview.png">
-<img align="center" alt="Caio-Angular" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png">
-</div>
+  
+
 
   
 <div>  
