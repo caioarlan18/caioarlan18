@@ -2,7 +2,7 @@
 
 - 👋 Tenho 17 anos
 - 👀 Estou interessado em algum estágio como desenvolvedor web front-end
-- 🌱 Estudando mais afundo JavaScript, ReactJS, Vue.js
+- 🌱 Estudando mais afundo JavaScript, ReactJS
 
 
 <div align="left">
