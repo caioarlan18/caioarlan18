@@ -1,8 +1,8 @@
 ## Olá, eu sou Caio Arlan
 
-- 👋 Tenho 17 anos
-- 👀 Estou interessado em algum estágio como desenvolvedor web front-end
-- 🌱 Estudando mais afundo JavaScript, ReactJS
+- 👋 Tenho 18 anos
+- 👀 Estou interessado em estágio desenvolvedor backend java
+- 🌱 Estudando mais afundo Spring Boot
 
 
 <div align="left">
