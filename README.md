@@ -1,7 +1,7 @@
 ## Olá, eu sou Caio Arlan
 
 - 👋 Tenho 18 anos
-- 👀 Estou interessado em estágio desenvolvedor backend java
+- 👀 Estou interessado em estágio desenvolvedor backend
 - 🌱 Estudando mais afundo Spring Boot
 
 
