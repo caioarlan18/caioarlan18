@@ -12,12 +12,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Js" height="30" width="40" src="https://imgs.search.brave.com/NW76v2Ftun_p2YZU_LSgTDto-w9nMDvX6FTMt9qLt14/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9ub2RlLWpz/LWljb24tNDU0eDUx/Mi1uenRvZngxNy5w/bmc">
+  <img align="center" alt="Caio-Js" height="30" width="30" src="https://imgs.search.brave.com/bWSw7-Ni5GA7Zzsub70EPq_pdE74uEkLJHe8mMqXmyI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni81OTY4LzU5Njgy/OTIucG5nP3NlbXQ9/YWlzX2h5YnJpZA">
   <img align="center" alt="Caio-TS" height="30" width="30" src="https://imgs.search.brave.com/qeytoyQm-aTA-m9Ow1R6qJbzbberEh0aCgsVXlYgCzs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi0yMDQ4eDIwNDgt/MnJoaDF6NjYucG5n">
-    
-
   <img align="center" alt="Caio-reactJS" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-    <img align="center" alt="Caio-SpringBoot" height="30" width="35" src="https://imgs.search.brave.com/hPSqN-VzGBLegc66XHnk2Glaf-oMsDCk-lgZlFMfMno/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/Lzc5L1NwcmluZ19C/b290LnN2Zw.svg">
+  <img align="center" alt="Caio-Java" height="30" width="30" src="https://imgs.search.brave.com/lCR7nSZSb36g7ERNsq_NRMSuglhidRKzGL0oQMAURKQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qYXZhLWlj/b24tNTEyeDUxMi0x/M3BxdjB0MC5wbmc">
+  <img align="center" alt="Caio-SpringBoot" height="30" width="35" src="https://imgs.search.brave.com/hPSqN-VzGBLegc66XHnk2Glaf-oMsDCk-lgZlFMfMno/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/Lzc5L1NwcmluZ19C/b290LnN2Zw.svg">
+  <img align="center" alt="Caio-database" height="30" width="30" src="https://imgs.search.brave.com/Pa38qqpav6V3YGrLdlT9cYVXK9XW9XY0SUshUKHXpgI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMTQ4LzE0ODgy/NS5wbmc">
 
 
 
