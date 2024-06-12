@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://imgs.search.brave.com/qeytoyQm-aTA-m9Ow1R6qJbzbberEh0aCgsVXlYgCzs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi0yMDQ4eDIwNDgt/MnJoaDF6NjYucG5n">
+  <img align="center" alt="Caio-HTML" height="30" width="30" src="https://imgs.search.brave.com/qeytoyQm-aTA-m9Ow1R6qJbzbberEh0aCgsVXlYgCzs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi0yMDQ4eDIwNDgt/MnJoaDF6NjYucG5n">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-reactJS e Native" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
