@@ -27,8 +27,11 @@
     <a href="https://wa.me/5522999677704" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
     <a href="https://www.linkedin.com/in/caio-arlan-b17b5124b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+ <br>
+ 
+   ![snake gif](https://github.com/caioarlan18/caioarlan18/blob/output/github-contribution-grid-snake.gif)
+
 <!---
 caioarlan18/caioarlan18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
