@@ -1,7 +1,7 @@
 ## Olá, eu sou Caio Arlan
 
 - 👋 Tenho 18 anos
-- 👀 Estou interessado em estágio desenvolvedor backend ou front-end
+- 👀 Estou interessado em uma vaga como desenvolvedor backend ou front-end
 - 🌱 Experiência full-stack
 
 
